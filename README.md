@@ -9,7 +9,7 @@
   <p>
     <a href="https://github.com/AchilleasMakris/Study-Saga-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/AchilleasMakris/Study-Saga-Releases?style=flat-square&color=1a1a2e" alt="Latest release" /></a>
     <a href="https://github.com/AchilleasMakris/Study-Saga-Releases/releases"><img src="https://img.shields.io/github/downloads/AchilleasMakris/Study-Saga-Releases/total?style=flat-square&color=1a1a2e&label=downloads" alt="Downloads" /></a>
-    <a href="https://github.com/AchilleasMakris/Study-Saga-Releases/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AchilleasMakris/Study-Saga-Releases?style=flat-square&color=1a1a2e" alt="MIT License" /></a>
+    <a href="https://github.com/AchilleasMakris/Study-Saga-Releases/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-free%20to%20use-1a1a2e?style=flat-square" alt="License — free to use" /></a>
     <a href="https://www.study-saga.com/"><img src="https://img.shields.io/badge/web%20app-study--saga.com-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white" alt="Open the web app" /></a>
     <a href="https://discord.com/invite/8jbthVPmnb"><img src="https://img.shields.io/discord/1440026916483629160?style=flat-square&logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Join the Discord" /></a>
     <br/>
@@ -153,7 +153,7 @@ If your distro only ships WebKitGTK 4.0, use the AppImage, which targets the Ubu
 - Releases: https://github.com/AchilleasMakris/Study-Saga-Releases/releases
 - Report a bug or request a feature: [open an issue](https://github.com/AchilleasMakris/Study-Saga-Releases/issues)
 - Built with [Pake](https://github.com/tw93/Pake)
-- License: [MIT](LICENSE)
+- License: [free to download and use](LICENSE) — no redistribution, rebranding, or resale
 
 <div align="center">
   <sub>Made by Achilleas Makris · <a href="https://www.study-saga.com/">https://study-saga.com</a></sub>
