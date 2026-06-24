@@ -11,6 +11,7 @@
     <a href="https://github.com/AchilleasMakris/Study-Saga-Releases/releases"><img src="https://img.shields.io/github/downloads/AchilleasMakris/Study-Saga-Releases/total?style=flat-square&color=1a1a2e&label=downloads" alt="Downloads" /></a>
     <a href="https://github.com/AchilleasMakris/Study-Saga-Releases/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AchilleasMakris/Study-Saga-Releases?style=flat-square&color=1a1a2e" alt="MIT License" /></a>
     <a href="https://www.study-saga.com/"><img src="https://img.shields.io/badge/web%20app-study--saga.com-1a1a2e?style=flat-square&logo=googlechrome&logoColor=white" alt="Open the web app" /></a>
+    <a href="https://discord.com/invite/8jbthVPmnb"><img src="https://img.shields.io/discord/1440026916483629160?style=flat-square&logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Join the Discord" /></a>
     <br/>
     <img src="https://img.shields.io/badge/macOS-1a1a2e?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
     <img src="https://img.shields.io/badge/Windows-1a1a2e?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
@@ -148,6 +149,7 @@ If your distro only ships WebKitGTK 4.0, use the AppImage, which targets the Ubu
 ## Links
 
 - Web app: https://www.study-saga.com/
+- Discord: https://discord.com/invite/8jbthVPmnb
 - Releases: https://github.com/AchilleasMakris/Study-Saga-Releases/releases
 - Report a bug or request a feature: [open an issue](https://github.com/AchilleasMakris/Study-Saga-Releases/issues)
 - Built with [Pake](https://github.com/tw93/Pake)
